@@ -1,8 +1,4 @@
-"""
-Created on Wed Nov 6 22:35:49 2019
 
-@author: dali
-"""
 import time
 
 
